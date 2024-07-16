@@ -2,7 +2,7 @@
 
 brainrot
 
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2Fthe-skibidi-language-v0-74exfhpbtqyb1.png%3Fwidth%3D1333%26format%3Dpng%26auto%3Dwebp%26s%3D5c06b2a739e0c6dc72937b89f43264beb21c79df&f=1&nofb=1&ipt=43fb95b5c5f4342bc870fa3439833284056f96262227359e9b2be55a8b545d7b&ipo=images
+![image](https://github.com/user-attachments/assets/32b5e6ef-145b-41da-91bc-03aa9950798c)
 
 ## features
 
